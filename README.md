@@ -13,4 +13,4 @@ a>
 
 ## Here Are Some Projects 🏗
 * 🚩 [**gpacalculator**](https://github.com/medohatesu/a-beginner-gpa-calculator-)
-  * A beginner gpa calculator made by oop 
+  * A beginner gpa calculator made using cpp
